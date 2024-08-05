@@ -9,7 +9,7 @@ global.location = "Nigeria, Lagos, Lagos" //ur location
 
 //new
 global.botname = 'Wolf MD V1' //ur bot name
-global.ownernumber = '2347045305132' //ur owner number
+global.ownernumber = '254745294543' //ur owner number
 global.ownername = 'wolf' //ur owner name
 global.websitex = "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G"
 global.wagc = "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G"
@@ -20,7 +20,7 @@ global.packname = "Sticker By"
 global.author = "🦄 Wolf\n\n+2347045305132"
 global.creator = "2347045305132@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2347045305132"] // Premium User
+global.premium = ["254745294543"] // Premium User
 global.hituet = 0
 
 //bot sett
